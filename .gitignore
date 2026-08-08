@@ -1,0 +1,15 @@
+# Python cache & virtual environments
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Large files & Datasets (Will block GitHub push if included)
+data/
+*.pt
+*.pth
+
+# IDE settings
+.vscode/
+.idea/
+.DS_Store
